@@ -69,6 +69,15 @@ Install from the Ubuntu Software Center
 Follow instructions from the official
 [Docker CE](https://docs.docker.com/install/linux/docker-ce/ubuntu/) documentation.
 
+Once installed, to enable use of the Docker CLI commands via a terminal without
+requiring `sudo` to be used each time, run the following commands in the terminal:
+
+```bash
+sudo groupadd docker
+sudo usermod -aG docker $USER
+newgrp docker # This prevents having to log out and back in
+```
+
 ### .NET Core
 Follow instructions from the official
 [.NET Core](https://dotnet.microsoft.com/download/linux-package-manager/ubuntu18-04/sdk-current) documentation.
