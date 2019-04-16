@@ -49,6 +49,11 @@ gsettings set org.gnome.shell.extensions.dash-to-dock max-alpha 0
 ```
 
 ## Software
+### Curl
+```bash
+sudo apt install curl
+```
+
 ### Git
 ```bash
 sudo apt install git
@@ -59,6 +64,18 @@ Install from the Ubuntu Software Center
 
 ### Spotify
 Install from the Ubuntu Software Center
+
+### Docker
+Follow instructions from the official
+[Docker CE](https://docs.docker.com/install/linux/docker-ce/ubuntu/) documentation.
+
+### .NET Core
+Follow instructions from the official
+[.NET Core](https://dotnet.microsoft.com/download/linux-package-manager/ubuntu18-04/sdk-current) documentation.
+
+### NodeJS and NPM
+Follow instructions from the official
+[GitHub Repository](https://github.com/nodesource/distributions/blob/master/README.md#debinstall).
 
 ## Author
 By Samuel Slade
