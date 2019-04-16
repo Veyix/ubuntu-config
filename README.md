@@ -62,6 +62,12 @@ sudo apt install git
 ### Visual Studio Code
 Install from the Ubuntu Software Center
 
+Extensions:
+- Debugger for Chrome
+- C# (powered by OmniSharp)
+- Docker
+- Material Icon Theme
+
 ### Spotify
 Install from the Ubuntu Software Center
 
