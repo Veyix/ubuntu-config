@@ -38,6 +38,16 @@ Current theme selection:
   - Seconds - OFF
   - Week Numbers - OFF
 
+### Making the Dock Transparent
+> See: https://askubuntu.com/a/1031335
+
+Run the following in the terminal
+```bash
+gsettings set org.gnome.shell.extensions.dash-to-dock customize-alphas true
+gsettings set org.gnome.shell.extensions.dash-to-dock min-alpha 0
+gsettings set org.gnome.shell.extensions.dash-to-dock max-alpha 0
+```
+
 ## Software
 ### Git
 ```bash
