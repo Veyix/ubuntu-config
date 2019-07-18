@@ -92,5 +92,8 @@ Follow instructions from the official
 Follow instructions from the official
 [GitHub Repository](https://github.com/nodesource/distributions/blob/master/README.md#debinstall).
 
+### HMRC Basic PAYE Tools
+Follow [the official guide](https://www.gov.uk/government/publications/getting-basic-paye-tools-working-on-linux/getting-basic-paye-tools-working-on-linux) for installation instructions on Ubuntu.
+
 ## Author
 By Samuel Slade
