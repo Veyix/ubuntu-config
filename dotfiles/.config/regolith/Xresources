@@ -1,0 +1,17 @@
+i3-wm.gaps.inner.size: 10
+i3-wm.gaps.outer.size: 30
+i3-wm.client.focused.color.border: "268bd2"
+i3-wm.client.focused.color.indicator: "red"
+i3-wm.bar.position: top
+
+##i3-wm.workspace.01.name: 1: Comms
+##i3-wm.workspace.02.name: 2: Terminal
+##i3-wm.workspace.03.name: 3: Chrome
+##i3-wm.workspace.04.name: 4: Spotify
+##i3-wm.workspace.05.name: 5: dotnet
+##i3-wm.workspace.06.name: 6: React
+
+gnome.terminal.use-transparent-background: true
+gnome.terminal.opacity: 0.85
+##gnome.wallpaper: /home/samuel/Pictures/Wallpapers/night-city.jpg
+

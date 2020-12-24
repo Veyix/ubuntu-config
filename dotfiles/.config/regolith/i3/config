@@ -1,0 +1,10 @@
+###############################################################################
+# Custom settings
+###############################################################################
+
+# Floating windows
+for_window [title="Microsoft Teams Notification" class="microsoft teams - preview"] floating enabled
+for_window [title="Microsoft Teams Notification" class="Microsoft Teams - Preview"] floating enabled
+for_window [title="Calculator" class="gnome-calculator"] floating enabled
+for_window [title="Calculator" class="Gnome-Calculator"] floating enabled
+
